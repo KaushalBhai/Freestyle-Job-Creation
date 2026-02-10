@@ -2,3 +2,6 @@ a = 5
 b = 5
 print(a + b)
 print("Hello World")
+print("Welcome to DevOps Foundation Course")
+
+
